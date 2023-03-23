@@ -1,9 +1,5 @@
 Soy estudiante de Desarrollo Full Stack para aplicaciones web. En junio 2022 terminé mi formación en Digital House y actualmente me estoy formando con Argentina Programa.
 
-¿Qué aprendí hasta ahora?
-
-FullStack Developer
-
 🔳 Backend🚀: 
  ~ JavaScript
  ~ NodeJS 
